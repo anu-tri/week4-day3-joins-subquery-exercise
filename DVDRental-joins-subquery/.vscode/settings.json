@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "DVDRental-cae74",
+            "connectString": "postgres://exodpjzn:VNyAnsC-Jz4WdbUrU_963OGe2JMzi_JQ@kashin.db.elephantsql.com/exodpjzn"
+        }
+    ]
+}
